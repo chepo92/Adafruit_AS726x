@@ -1,8 +1,6 @@
 # Adafruit AS726xSoftWire Library 
 
-This is a library for the Adafruit AS7262 spectral sensor breakout:
-  * https://www.adafruit.com/products/3779
-using the Softwire library in case you don't have available the SDA and SCL pins, or you want to connect devices with the same i2c address. 
+This is a library for the Adafruit AS7262 spectral sensor breakout: https://www.adafruit.com/products/3779 using the Softwire library in case you don't have available the SDA and SCL pins, or you want to connect devices with the same i2c address. 
 
 I added an example of use with pins 2 and 3 
 
